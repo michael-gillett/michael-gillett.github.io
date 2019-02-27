@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: gillett.ai
+Token: 26745289bbbca38374d6e930d1ace180931c319f60d408b5f94a1bab9f236390
